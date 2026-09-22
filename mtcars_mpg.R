@@ -6,3 +6,5 @@ mean_mpg <- mean(mtcars$mpg)
 mean_mpg
 
 #literally just adding some comments to make sure i can push to github
+#ok does it work now?
+head(mtcars)
